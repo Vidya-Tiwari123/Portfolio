@@ -212,6 +212,9 @@ section .title::after{
     color: crimson;
     background: none;
 }
+.about{
+    /* background: black; */
+}
 
 /* about section styling */
 .about .title::after{
